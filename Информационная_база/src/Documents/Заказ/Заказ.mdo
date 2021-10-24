@@ -222,6 +222,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="f54cfb93-db08-4b0e-af3d-09772bd820d8">
+    <name>ВремяЗаказа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Время заказа</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="eb4d6024-f5e8-48ce-87cc-51aa1d8bdc00">
     <name>ФормаДокумента</name>
     <synonym>
