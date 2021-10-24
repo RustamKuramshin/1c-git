@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scc:StandaloneContent xmlns:scc="http://g5.1c.ru/v8/dt/scc">
+  <usedItem metadata="Subsystem.Предприятие"/>
+  <usedItem metadata="Subsystem.Закупки"/>
+  <usedItem metadata="Subsystem.Продажи"/>
+  <usedItem metadata="CommonModule.ОбменМобильныеОбщее"/>
+  <usedItem metadata="Catalog.Пользователи"/>
+  <usedItem metadata="Subsystem.Финансы"/>
+  <usedItem metadata="Constant.ОтметкаНаФотоснимкеТекст"/>
+  <usedItem metadata="Subsystem.ТоварныеЗапасы.Subsystem.Цены"/>
+  <usedItem metadata="DocumentJournal.ДокументыПродаж"/>
+  <usedItem metadata="CommonModule.ОбменМобильныеАвтономныйКлиент"/>
+  <usedItem metadata="CommonModule.БотКлиент"/>
+  <usedItem metadata="Subsystem.Финансы.Subsystem.Банк"/>
+  <usedItem metadata="Subsystem.ТоварныеЗапасы"/>
+  <usedItem metadata="Role.Администратор"/>
+  <usedItem metadata="Subsystem.ТоварныеЗапасы.Subsystem.Характеристики"/>
+  <usedItem metadata="CommonForm.Звонок"/>
+  <usedItem metadata="CommonModule.ОбменМобильныеПереопределяемый"/>
+  <usedItem metadata="Role.МенеджерПоЗакупкам"/>
+  <usedItem metadata="Catalog.Контрагенты"/>
+  <usedItem metadata="Role.МенеджерПоПродажам"/>
+  <usedItem metadata="Role.Продавец"/>
+  <usedItem metadata="ExchangePlan.Мобильные"/>
+  <usedItem metadata="FunctionalOption.УчетПоСкладам"/>
+  <usedItem metadata="CommonModule.ГеопозиционированиеКлиент"/>
+  <usedItem metadata="FunctionalOption.ВалютныйУчет"/>
+  <usedItem metadata="Enum.СостоянияЗаказов"/>
+  <usedItem metadata="CommonCommand.ОбменСЦентральнойБазой"/>
+  <usedItem metadata="Constant.УчетПоСкладам"/>
+  <usedItem metadata="Constant.ОтметкаНаФотоснимкеДата"/>
+  <usedItem metadata="Catalog.Товары"/>
+  <usedItem metadata="Catalog.Склады"/>
+  <usedItem metadata="Catalog.Валюты"/>
+  <usedItem metadata="Catalog.Регионы"/>
+  <usedItem metadata="Catalog.ВидыЦен"/>
+  <usedItem metadata="CommonModule.ОбменМобильныеКлиент"/>
+  <usedItem metadata="Enum.ВидыМобильныхОтчетов"/>
+  <usedItem metadata="Catalog.ХранимыеФайлы"/>
+  <usedItem metadata="Catalog.Организации"/>
+  <usedItem metadata="Document.Заказ"/>
+  <usedItem metadata="Enum.ВидыТоваров"/>
+  <usedItem metadata="Enum.ИспользоватьПровайдерГеопозиционирования"/>
+  <usedItem metadata="InformationRegister.КурсыВалют"/>
+  <usedItem metadata="InformationRegister.ЦеныТоваров"/>
+  <usedItem metadata="Constant.ОтправленоЗаписей"/>
+  <usedItem metadata="InformationRegister.МобильныеОтчеты"/>
+  <usedItem metadata="CommonModule.ОбменМобильныеАвтономныйСервер"/>
+  <usedItem metadata="Constant.ПринятоЗаписей"/>
+  <usedItem metadata="Role.ПользовательБот"/>
+  <usedItem metadata="CommonModule.УведомленияКлиент"/>
+  <usedItem metadata="CommonModule.ГлобальныйПоискКлиент"/>
+  <usedItem metadata="CommonModule.ГлобальныйПоискСервер"/>
+  <usedItem metadata="CommonModule.УведомленияСервер"/>
+  <priorityItem metadata="Constant.ПринятоЗаписей" priority="LocalServer"/>
+  <priorityItem metadata="CommonModule.ОбменМобильныеАвтономныйКлиент" priority="LocalServer"/>
+  <priorityItem metadata="CommonModule.ОбменМобильныеАвтономныйСервер" priority="LocalServer"/>
+  <priorityItem metadata="Catalog.Пользователи" priority="LocalServer"/>
+</scc:StandaloneContent>

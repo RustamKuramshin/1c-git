@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ccbe7425-b589-45e3-a1b5-6ee4ed4ceabb">
+  <producedTypes>
+    <managerType typeId="54270705-4e86-462d-9856-eb0a8ca09b4e" valueTypeId="f5ce7c25-8224-4acb-8032-593b0b70d5e8"/>
+    <valueManagerType typeId="c1b5b48c-5a9f-4e00-9d46-23d8396fbd0b" valueTypeId="1e12b8ae-c263-44b6-b5a4-f4cb3129591b"/>
+    <valueKeyType typeId="afeb82f0-36ca-4bbf-8067-84c4ccb40d00" valueTypeId="d28d7183-0c7e-4d06-a4b4-81b52b8b5a7b"/>
+  </producedTypes>
+  <name>ПринятоЗаписей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Принято записей</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>10</precision>
+    </numberQualifiers>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
